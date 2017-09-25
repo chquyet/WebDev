@@ -1,4 +1,4 @@
-# WebDev Takenotes: Essentials for WebDev
+# WebDev Takenotes
 * Sublime Text
 * Git
 * HTML
